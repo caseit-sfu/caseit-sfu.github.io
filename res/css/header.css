@@ -1,5 +1,5 @@
 .caseit-logo {
-  height: 30px;
+  height: 2em;
 }
 
 /* Bootstrap-provided navigation bar classes */
@@ -13,7 +13,7 @@
   display: flex;
   vertical-align: middle;
 
-  margin: 0 50px;
+  margin: 0 3em;
 }
 
 .navbar-nav a {
