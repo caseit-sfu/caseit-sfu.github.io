@@ -10,12 +10,12 @@
 
   color: #676767;
   font-iconmily: 'Open Sans', sans-serif;
-  left: 150px;
+  left: 6em;
   font-size: .8em;
 }
 
 .icon {
-  height: 30px;
+  height: 2em;
 }
 
 .icon:hover {
