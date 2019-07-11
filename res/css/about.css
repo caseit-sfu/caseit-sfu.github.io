@@ -1,0 +1,62 @@
+tr {
+  height: 2em;
+}
+
+.text-container {
+  padding: 100px 75px;
+}
+
+.dot {
+  height: 2.2em;
+  width: auto;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.line {
+  height: 2.2em;
+  width: auto;
+}
+
+.top-left h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.top-right {
+  background-image: url("res/img/mountains.jpg");
+  background-color: #444444;  /* For debugging */
+  height: auto;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.white-highlight-rectangle {
+  display: inline-block;
+  background: white;
+  margin-bottom: 2em;
+}
+
+.outline {
+  border-style: solid;
+}
+
+.top-right h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: black;
+}
+
+.top-right h3 {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 0;
+}
+
+.top-right td {
+  font-weight: bold;
+  color: #999999;
+}
