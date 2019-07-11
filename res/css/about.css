@@ -1,5 +1,21 @@
+tr {
+  height: 2em;
+}
+
 .text-container {
   padding: 100px 75px;
+}
+
+.dot {
+  height: 2.2em;
+  width: auto;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.line {
+  height: 2.2em;
+  width: auto;
 }
 
 .top-left h1 {
@@ -20,6 +36,11 @@
 .white-highlight-rectangle {
   display: inline-block;
   background: white;
+  margin-bottom: 2em;
+}
+
+.outline {
+  border-style: solid;
 }
 
 .top-right h2 {
@@ -29,12 +50,13 @@
 }
 
 .top-right h3 {
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: bold;
   color: white;
+  margin-bottom: 0;
 }
 
-.top-right p {
+.top-right td {
   font-weight: bold;
-  color: #888888;
+  color: #999999;
 }
