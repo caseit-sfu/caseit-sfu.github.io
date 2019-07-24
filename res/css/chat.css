@@ -12,3 +12,13 @@
   padding: 0;
   text-align: center;
 }
+
+.center-text-large {
+  font-size: 3em;
+  font-weight: bold;
+  color: white;
+}
+
+.center-text {
+  color: white;
+}
