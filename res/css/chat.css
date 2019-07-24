@@ -1,0 +1,14 @@
+/* This CSS file contains the common styling for the chat page. */
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.mountains {
+  position: relative;
+  padding: 0;
+  text-align: center;
+}
