@@ -14,8 +14,14 @@
   font-size: .8em;
 }
 
+.col-lg {
+  min-height: 2em;
+}
+
 .icon {
   height: 2em;
+  margin-top: .5em;
+  margin-bottom: .5em;
 }
 
 .icon:hover {
