@@ -13,6 +13,10 @@
   text-align: center;
 }
 
+.mountains-img {
+  min-height: 25em;
+}
+
 .coming-soon-text {
   font-size: 3em;
   font-weight: bold;
