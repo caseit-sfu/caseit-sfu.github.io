@@ -23,8 +23,7 @@ tr {
   font-weight: bold;
 }
 
-.top-right {
-  background-image: url("res/img/mountains.jpg");
+.grid-background-image {
   background-color: #444444;  /* For debugging */
   height: auto;
   width: auto;
