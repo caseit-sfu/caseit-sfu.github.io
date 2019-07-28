@@ -21,3 +21,7 @@
   font-size: 1em;
   color: grey;
 }
+
+.navbar-nav a:hover {
+  color: #d32029 !important;
+}
