@@ -1,24 +1,8 @@
-tr {
-  height: 2em;
-}
-
 .text-container {
   padding: 8em 5em;
 }
 
-.dot {
-  height: 2.2em;
-  width: auto;
-  padding-right: 1em;
-  padding-left: 1em;
-}
-
-.line {
-  height: 2.2em;
-  width: auto;
-}
-
-.top-left h1 {
+.grid-text-only h1 {
   font-size: 1.8em;
   font-weight: bold;
 }
@@ -32,14 +16,16 @@ tr {
   background-size: cover;
 }
 
+.outline {
+  border-style: solid;
+}
+
+/* Formatting for the top-right grid */
+
 .white-highlight-rectangle {
   display: inline-block;
   background: white;
   margin-bottom: 2em;
-}
-
-.outline {
-  border-style: solid;
 }
 
 .top-right h2 {
@@ -58,4 +44,20 @@ tr {
 .top-right td {
   font-weight: bold;
   color: #999999;
+}
+
+tr {
+  height: 2em;
+}
+
+.dot {
+  height: 2.2em;
+  width: auto;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.line {
+  height: 2.2em;
+  width: auto;
 }
