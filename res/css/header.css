@@ -16,9 +16,9 @@
   margin: 0 3em;
 }
 
-.navbar-nav a {
-  font-weight: bold;
-  font-size: 1em;
+.nav-link {
+  font-family: "DIN Pro Medium" !important;
+  font-size: 1.1em;
   color: grey;
 }
 
