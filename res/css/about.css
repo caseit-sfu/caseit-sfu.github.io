@@ -26,6 +26,10 @@
   background-size: cover;
 }
 
+#timeline-background {
+  background-image: url("../img/mountains.jpg");
+}
+
 #chair-welcome-background {
   background-image: url("../img/chair-welcome-background.jpg");
 }
