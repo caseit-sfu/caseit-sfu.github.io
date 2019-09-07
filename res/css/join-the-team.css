@@ -1,0 +1,13 @@
+.coming-soon {
+  position: relative;
+  padding: 0;
+  text-align: center;
+}
+
+#mountains {
+  background-image: url("../img/mountains.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
